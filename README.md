@@ -4,9 +4,8 @@
 
 - 👯 I’m looking to collaborate on new friends :3
 - 🔭 I’m currently working on my knowledge.
--  🌱 I’m currently learning JavaScript, Frameworks and web design :).
+-  🌱 I’m currently learning JavaScript, php, Angular, Laravel and web design :).
 -   ⚡ Fun fact: I'm trying tech Youtuber.
 -   How to reach me: nicolas.flores.eguizabal.25@gmail.com
 
 - 💼 (Busines): https://www.linkedin.com/in/nicolasfloreseguizabal/
-- 📽 (Yt Channel in Spanish): https://www.youtube.com/@meager231
